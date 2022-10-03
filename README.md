@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/></a>
 
 
-![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/overview.svg)
-![](https://github.com/jaehyun-github/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/piaoRuizhen/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/piaoRuizhen/github-stats-transparent/blob/output/generated/languages.svg)
 
 </div>
